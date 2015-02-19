@@ -1,2 +1,1 @@
-
-! this is my second project.
+Hello! this is my second project!
